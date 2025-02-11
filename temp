@@ -1,0 +1,7 @@
+
+a extensão deve fazer duas coisas:
+    .abrir e fechar o jogo ✔️
+    .atualizar a página ao comitar
+        -injetar um botão na página
+        -o botão deve se comunicar com a extensão
+        -a extensão deve se comunicar com a página aberta
